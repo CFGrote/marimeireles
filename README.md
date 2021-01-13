@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, my name is Mariana Meireles</h1>
 <h3 align="center">A scientific software engineer but also other things</h3>
 
+_"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
+
 <p align="left"> <a href="https://twitter.com/mari_meir" target="blank"><img src="https://img.shields.io/twitter/follow/mari_meir?logo=twitter&style=for-the-badge" alt="mari_meir" /></a> </p>
 
 - 🔭 I’m currently working on: **xeus-soci! but it's still a secret**
