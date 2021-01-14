@@ -3,8 +3,6 @@
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
-<p align="left"> <a href="https://twitter.com/mari_meir" target="blank"><img src="https://img.shields.io/twitter/follow/mari_meir?logo=twitter&style=for-the-badge" alt="mari_meir" /></a> </p>
-
 - 🔭 I’m currently working on: **C++ sorcery, going in the mines of Moria where developers dug too deep and have awaken a bigger evil**
 
 - 🌱 I’m currently learning: **compilers and deep learning stuff**
