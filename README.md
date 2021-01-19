@@ -5,7 +5,7 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 - 🔭 I’m currently working on: **C++ sorcery, going in the mines of Moria where developers dug too deep and have awaken a bigger evil**
 
-- 🌱 I’m currently learning: **compilers and deep learning stuff**
+- 🌱 I’m currently learning: **rust and some deep learning stuff**
 
 - 📝 I regularly write articles on: [https://medium.com/@mari_meir](https://medium.com/@mari_meir)
 
