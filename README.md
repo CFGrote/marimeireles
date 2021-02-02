@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, my name is Mariana Meireles</h1>
-<h3 align="center">A scientific software engineer but also other things</h3>
+<h1 align="center">Hi, my name is Mariana Meireles</h1>
+<h3 align="center">Mostly a scientific software engineer in Github but also other things</h3>
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
@@ -9,18 +9,17 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 - 📝 I regularly write articles on: [https://medium.com/@mari_meir](https://medium.com/@mari_meir)
 
-- 💬 Ask me about: **any of the projects linked on my pins :)**
+- 💬 Ask me about: **anything you think I'll have an interesting opinion about :)**
 
 - 📫 How to reach me: **for an asynchronous chat mariana@psychonautgirl.space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
-- ⚡ Fun fact: **I can touch my nose with my tongue**
+- ⚡ Fun fact: **I can touch my nose with my tongue. Also I have a website [psychonautgirl.space/](https://psychonautgirl.space/)**
 
 ### Blog posts:
-<!-- BLOG-POST-LIST:START -->
 - [Rhumba: a faster R distribution](https://medium.com/@mari_meir/rhumba-a-faster-r-distribution-d619fb93043a?source=rss-8efcbe033315------2)
 - [Memestra!](https://medium.com/@mari_meir/memestra-a21c0c1f362?source=rss-8efcbe033315------2)
 - [A Jupyter kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551?source=rss-8efcbe033315------2)
-<!-- BLOG-POST-LIST:END -->
+- [Interactive graph visualization](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
