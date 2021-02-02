@@ -15,7 +15,7 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 - ⚡ Fun fact: **I can touch my nose with my tongue.**
 
-- 🪐 Geocity: **I have a house in the internet: [psychonautgirl.space](https://psychonautgirl.space/)**
+- 🪐 I have a house in the internet: **[psychonautgirl.space](https://psychonautgirl.space/)**
 
 ### Blog posts:
 - [Rhumba: a faster R distribution](https://medium.com/@mari_meir/rhumba-a-faster-r-distribution-d619fb93043a?source=rss-8efcbe033315------2)
