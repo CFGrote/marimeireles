@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Mariana Meireles</h1>
-<h3 align="center">Mostly a scientific software engineer in Github but also other things</h3>
+<h3 align="center">Mostly a scientific software engineer on Github but also other things</h3>
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
