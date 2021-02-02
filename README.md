@@ -13,7 +13,7 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 - 📫 How to reach me: **for an asynchronous chat mariana@psychonautgirl.space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
-- ⚡ Fun fact: **I can touch my nose with my tongue. Also I have a website [psychonautgirl.space/](https://psychonautgirl.space/)**
+- ⚡ Fun fact: **I can touch my nose with my tongue. You can prbb find more of these here: [psychonautgirl.space](https://psychonautgirl.space/)(or not actly)**
 
 ### Blog posts:
 - [Rhumba: a faster R distribution](https://medium.com/@mari_meir/rhumba-a-faster-r-distribution-d619fb93043a?source=rss-8efcbe033315------2)
