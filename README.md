@@ -18,6 +18,7 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 - 🪐 I have a house in the internet: **[psychonautgirl.space](https://psychonautgirl.space/)**
 
 ### Blog posts:
+- [A xeus-SQLite sequel](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
 - [Rhumba: a faster R distribution](https://medium.com/@mari_meir/rhumba-a-faster-r-distribution-d619fb93043a?source=rss-8efcbe033315------2)
 - [Memestra!](https://medium.com/@mari_meir/memestra-a21c0c1f362?source=rss-8efcbe033315------2)
 - [A Jupyter kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551?source=rss-8efcbe033315------2)
