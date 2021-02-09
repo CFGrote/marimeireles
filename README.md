@@ -13,7 +13,7 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 - 📫 How to reach me: **for an asynchronous chat mariana@psychonautgirl.space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
-- ⚡ Fun fact: **I can touch my nose with my tongue.**
+- ⚡ Fun fact: **I can touch my nose with my tongue**
 
 - 🪐 I have a house in the internet: **[psychonautgirl.space](https://psychonautgirl.space/)**
 
