@@ -3,15 +3,15 @@
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
-- 🔭 I’m currently working on: **Widgets ecosystem. Making it nicerrr TS and frontend things**
+- 🔭 I’m currently working on: **widgets ecosystem. making it nicerrr TS and frontend things**
 
 - 🌱 I’m currently learning: **rust and some deep learning stuff**
 
-- 📝 I regularly write articles on: [medium.com/@mari_meir](https://medium.com/@mari_meir) && [wireless-hippie.github.io](https://wireless-hippie.github.io/)
+- 📝 I regularly write articles on: **[medium.com/@mari_meir](https://medium.com/@mari_meir) && [wireless-hippie.github.io](https://wireless-hippie.github.io/)**
 
 - 💬 Ask me about: **anything you think I'll have an interesting opinion about :)**
 
-- 📫 How to reach me: **for an asynchronous chat mariana@psychonautgirl.space for a synchronous one [here](https://gitter.im/marimeireles/)**
+- 📫 How to reach me: **for an asynchronous chat mariana(at)psychonautgirl(dot)space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
 - ⚡ Fun fact: **I can touch my nose with my tongue**
 
