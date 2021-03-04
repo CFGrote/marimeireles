@@ -3,11 +3,11 @@
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
-- 🔭 I’m currently working on: **C++ sorcery, going in the mines of Moria where developers dug too deep and have awaken a bigger evil**
+- 🔭 I’m currently working on: **Widgets ecosystem. Making it nicerrr TS and frontend things**
 
 - 🌱 I’m currently learning: **rust and some deep learning stuff**
 
-- 📝 I regularly write articles on: [https://medium.com/@mari_meir](https://medium.com/@mari_meir)
+- 📝 I regularly write articles on: [medium.com/@mari_meir](https://medium.com/@mari_meir) && [wireless-hippie.github.io](https://wireless-hippie.github.io/)
 
 - 💬 Ask me about: **anything you think I'll have an interesting opinion about :)**
 
@@ -23,6 +23,8 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 - [Memestra!](https://medium.com/@mari_meir/memestra-a21c0c1f362?source=rss-8efcbe033315------2)
 - [A Jupyter kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551?source=rss-8efcbe033315------2)
 - [Interactive graph visualization](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
+- [About my Qt times](https://www.qt.io/blog/about-my-qt-times-and-a-qt-for-python-voice-assistant)
+- [Web performance analyses on Webcompat](psychonautgirl.space/webcompat-optimization.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
