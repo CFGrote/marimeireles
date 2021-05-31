@@ -27,7 +27,7 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 - [A Jupyter kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551?source=rss-8efcbe033315------2)
 - [Interactive graph visualization](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
 - [About my Qt times](https://www.qt.io/blog/about-my-qt-times-and-a-qt-for-python-voice-assistant)
-- [Web performance analyses on Webcompat](psychonautgirl.space/webcompat-optimization.html)
+- [Web performance analysis on Webcompat](https://psychonautgirl.space/Webcompat-optimization.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
