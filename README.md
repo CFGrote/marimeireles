@@ -7,15 +7,18 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 - 🌱 I’m currently learning: **rust and some deep learning stuff**
 
-- 📝 I regularly write articles on: **[medium.com/@mari_meir](https://medium.com/@mari_meir) && [wireless-hippie.github.io](https://wireless-hippie.github.io/)**
+- 📝 I try to write: 
+  - I have professional articles in my medium account: **[medium.com/@mari_meir](https://medium.com/@mari_meir)**
+  - A bit more personal articles about tech: **[psychonautgirl.space/blog](psychonautgirl.space/blog)**
+  - Articles about my travellings that sometimes contemplate aspects of digital nomading: **[wireless-hippie.github.io](https://wireless-hippie.github.io/)**
 
-- 💬 Ask me about: **anything you think I'll have an interesting opinion about :)**
+- 💬 Ask me about: **anything you think I'll have an interesting opinion about :) I love e-meeting people!**
 
 - 📫 How to reach me: **for an asynchronous chat mariana(at)psychonautgirl(dot)space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
-- ⚡ Fun fact: **I can touch my nose with my tongue**
+- 🪐 visit in my house in the internet: **[psychonautgirl.space](https://psychonautgirl.space/)**
 
-- 🪐 I have a house in the internet: **[psychonautgirl.space](https://psychonautgirl.space/)**
+- ⚡ Fun fact: **I can touch my nose with my tongue**
 
 ### Blog posts:
 - [A xeus-SQLite sequel](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
