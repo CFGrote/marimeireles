@@ -8,7 +8,7 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 - 🌱 I’m currently learning: **rust and some deep learning stuff**
 
 - 📝 I try to write: 
-  - I have professional articles in my medium account: **[mari-meir.medium.com/](https://mari-meir.medium.com)**
+  - I have professional articles in my medium account: **[mari-meir.medium.com](https://mari-meir.medium.com)**
   - A bit more personal articles about tech: **[psychonautgirl.space/blog](https://psychonautgirl.space/blog)**
   - Articles about my travellings that sometimes contemplate aspects of digital nomading: **[wireless-hippie.github.io](https://wireless-hippie.github.io/)**
 
