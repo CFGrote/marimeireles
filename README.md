@@ -5,7 +5,7 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 _"To inform means to convey knowledge via facts. The purpose of that is to give shape to the mind." - Rich Hickey_
 
-- 🔭 I’m currently working on: **c++ things and packaging**
+- 🔭 I’m currently working on: **c++ things**
 
 - 🌱 I’m currently learning: **rust and some deep learning stuff**
 
