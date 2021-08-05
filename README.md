@@ -5,22 +5,22 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 _"To inform means to convey knowledge via facts. The purpose of that is to give shape to the mind." - Rich Hickey_
 
-- 🔭 I’m currently working on: **c++ things**
+- 🔭 I’m currently working on: **Jupyter things**
 
-- 🌱 I’m currently learning: **rust and some deep learning stuff**
+- 🌱 I’m currently learning: **rust** & I'm working on these WIPs: [SATAN](https://github.com/marimeireles/SATAN) and [dont-be-homeless](https://github.com/marimeireles/dont-be-homeless)
 
 - 📝 I try to write: 
   - I have professional articles in my medium account: **[mari-meir.medium.com](https://mari-meir.medium.com)**
   - A bit more personal articles about tech: **[psychonautgirl.space/blog](https://psychonautgirl.space/blog)**
   - Articles about my travellings that sometimes contemplate aspects of digital nomading: **[wireless-hippie.github.io](https://wireless-hippie.github.io/)**
 
-- 💬 Ask me about: **anything you think I'll have an interesting opinion about :) I love e-meeting people!**
+- 💬 ask me about: **anything you think I'll have an interesting opinion about :) I love e-meeting people!**
 
-- 📫 How to reach me: **for an asynchronous chat mariana(at)psychonautgirl(dot)space for a synchronous one [here](https://gitter.im/marimeireles/)**
+- 📫 how to reach me: **for an asynchronous chat mariana(at)psychonautgirl(dot)space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
 - 🪐 visit in my house in the internet: **[psychonautgirl.space](https://psychonautgirl.space/)**
 
-- ⚡ Fun fact: **I can touch my nose with my tongue**
+- ⚡ fun fact: **I can touch my nose with my tongue**
 
 ### Blog posts:
 - [A xeus-SQLite sequel](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
