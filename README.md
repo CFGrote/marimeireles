@@ -14,13 +14,13 @@ _"To inform means to convey knowledge via facts. The purpose of that is to give 
   - A bit more personal articles about tech: **[psychonautgirl.space/blog](https://psychonautgirl.space/blog)**
   - Articles about my travellings that sometimes contemplate aspects of digital nomading: **[wireless-hippie.github.io](https://wireless-hippie.github.io/)**
 
-- 💬 ask me about: **anything you think I'll have an interesting opinion about :) I love e-meeting people!**
+- 💬 ask me about: **anything you think I'll have an interesting opinion about :) I love meeting people!**
 
 - 📫 how to reach me: **for an asynchronous chat mariana(at)psychonautgirl(dot)space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
 - 🪐 visit in my house in the internet (pls take your shoes off before entering): **[psychonautgirl.space](https://psychonautgirl.space/)**
 
-- ⚡ fun fact: **I can touch my nose with my tongue**
+- ⚡ talents: **I can touch my nose with my tongue**
 
 ### Blog posts:
 - [A xeus-SQLite sequel](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
