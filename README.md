@@ -18,7 +18,7 @@ _"To inform means to convey knowledge via facts. The purpose of that is to give 
 
 - 📫 how to reach me: **for an asynchronous chat mariana(at)psychonautgirl(dot)space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
-- 🪐 visit in my house in the internet: **[psychonautgirl.space](https://psychonautgirl.space/)**
+- 🪐 visit in my house in the internet (pls take your shoes off before entering): **[psychonautgirl.space](https://psychonautgirl.space/)**
 
 - ⚡ fun fact: **I can touch my nose with my tongue**
 
