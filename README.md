@@ -7,7 +7,7 @@ _"To inform means to convey knowledge via facts. The purpose of that is to give 
 
 - 🔭 I’m currently working on: **Jupyter things**
 
-- 🌱 I’m currently learning: **rust** & I'm working on these WIPs: [SATAN](https://github.com/marimeireles/SATAN) and [dont-be-homeless](https://github.com/marimeireles/dont-be-homeless)
+- 🌱 I’m currently learning: **rust & I'm working on these WIPs: [SATAN](https://github.com/marimeireles/SATAN) and [dont-be-homeless](https://github.com/marimeireles/dont-be-homeless)**
 
 - 📝 I try to write: 
   - I have professional articles in my medium account: **[mari-meir.medium.com](https://mari-meir.medium.com)**
