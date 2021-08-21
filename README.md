@@ -31,6 +31,10 @@ _"To inform means to convey knowledge via facts. The purpose of that is to give 
 - [About my Qt times](https://www.qt.io/blog/about-my-qt-times-and-a-qt-for-python-voice-assistant)
 - [Web performance analysis on Webcompat](https://psychonautgirl.space/Webcompat-optimization.html)
 
+### Talks:
+
+You can find an updated list [here](https://github.com/marimeireles/talks/blob/master/README.md)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mari_meir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mari_meir" height="30" width="40" /></a>
