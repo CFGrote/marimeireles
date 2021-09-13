@@ -11,14 +11,13 @@ _"To inform means to convey knowledge via facts. The purpose of that is to give 
 
 - 📝 I try to write: 
   - I have professional articles in my medium account: **[mari-meir.medium.com](https://mari-meir.medium.com)**
-  - A bit more personal articles about tech: **[psychonautgirl.space/blog](https://psychonautgirl.space/blog)**
   - Articles about my travellings that sometimes contemplate aspects of digital nomading: **[wireless-hippie.github.io](https://wireless-hippie.github.io/)**
 
 - 💬 ask me about: **anything you think I'll have an interesting opinion about :) I love meeting people!**
 
 - 📫 how to reach me: **for an asynchronous chat mariana(at)psychonautgirl(dot)space for a synchronous one [here](https://gitter.im/marimeireles/)**
 
-- 🪐 visit in my house in the internet (pls take your shoes off before entering): **[psychonautgirl.space](https://psychonautgirl.space/)**
+- 🪐 visit my house on the internet (pls take your shoes off before entering): **[psychonautgirl.space](https://psychonautgirl.space/)**
 
 - ⚡ talents: **I can touch my nose with my tongue**
 
