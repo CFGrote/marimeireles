@@ -22,6 +22,7 @@ _"To inform means to convey knowledge via facts. The purpose of that is to give 
 - ⚡ talents: **I can touch my nose with my tongue**
 
 ### Blog posts:
+- [Looking at notebooks from a new perspective](https://blog.jupyter.org/looking-at-notebooks-from-a-new-perspective-bfd06797f188)
 - [A xeus-SQLite sequel](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
 - [Rhumba: a faster R distribution](https://medium.com/@mari_meir/rhumba-a-faster-r-distribution-d619fb93043a?source=rss-8efcbe033315------2)
 - [Memestra!](https://medium.com/@mari_meir/memestra-a21c0c1f362?source=rss-8efcbe033315------2)
