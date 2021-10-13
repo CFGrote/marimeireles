@@ -5,6 +5,8 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 
 _"To inform means to convey knowledge via facts. The purpose of that is to give shape to the mind." - Rich Hickey_
 
+_"Life is short, [the] craft long, opportunity fleeting, experiment treacherous, judgment difficult." - Hippocrates about software engineering_
+
 - 🔭 I’m currently working on: **Jupyter things**
 
 - 🌱 I’m currently learning: **rust & I'm working on these WIPs: [SATAN](https://github.com/marimeireles/SATAN) and [dont-be-homeless](https://github.com/marimeireles/dont-be-homeless)**
