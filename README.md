@@ -9,10 +9,11 @@ _"Life is short, [the] craft long, opportunity fleeting, experiment treacherous,
 
 - 🔭 I’m currently working on: **Jupyter things**
 
-- 🌱 I’m currently learning: **rust & I'm working on these WIPs: [SATAN](https://github.com/marimeireles/SATAN) and [dont-be-homeless](https://github.com/marimeireles/dont-be-homeless)**
+- 🌱 I’m currently learning: **check my [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md**
 
 - 📝 I try to write: 
   - I have professional articles in my medium account: **[mari-meir.medium.com](https://mari-meir.medium.com)**
+  - My take on various computer things and general experiments: **[cyborgdream.github.io](https://cyborgdream.github.io/)**
   - Articles about my travellings that sometimes contemplate aspects of digital nomading: **[wireless-hippie.github.io](https://wireless-hippie.github.io/)**
 
 - 💬 ask me about: **anything you think I'll have an interesting opinion about :) I love meeting people!**
