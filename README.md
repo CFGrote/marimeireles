@@ -1,5 +1,5 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
-<h3 align="center">Mostly a scientific software engineer on Github but also other things</h3>
+<h3 align="center">Writing cruelty-free organic software here</h3>
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
@@ -7,7 +7,7 @@ _"To inform means to convey knowledge via facts. The purpose of that is to give 
 
 _"Life is short, [the] craft long, opportunity fleeting, experiment treacherous, judgment difficult." - Hippocrates about software engineering_
 
-- 🔭 I’m currently working on: **Jupyter things**
+- 🔭 I’m currently working on: **Pyscript things**
 
 - 🌱 I’m currently learning: **check my [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md**
 
