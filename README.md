@@ -7,12 +7,12 @@ _"To inform means to convey knowledge via facts. The purpose of that is to give 
 
 _"Life is short, [the] craft long, opportunity fleeting, experiment treacherous, judgment difficult." - Hippocrates about software engineering_
 
-- 🔭 I’m currently working on: **Pyscript things**
+- 🔭 Software engineering on: **[Pyscript](https://github.com/pyscript/pyscript/)**
 
 - 🌱 I’m currently learning: **check my [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md**
 
-- 📝 I try to write: 
-  - I have professional articles in my medium account: **[mari-meir.medium.com](https://mari-meir.medium.com)**
+- 📝 I write: 
+  - Professional articles on my medium account: **[mari-meir.medium.com](https://mari-meir.medium.com)**
   - My take on various computer things and general experiments: **[cyborgdream.github.io](https://cyborgdream.github.io/)**
   - Articles about my travellings that sometimes contemplate aspects of digital nomading: **[wireless-hippie.github.io](https://wireless-hippie.github.io/)**
 
