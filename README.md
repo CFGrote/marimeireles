@@ -1,5 +1,6 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
-<h3 align="center">Writing cruelty-free organic software</h3>
+
+**I work as a software engineer for Anaconda and I'm a NumFOCUS DISC and Jupyter widgets steering committee member.**
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
@@ -18,7 +19,11 @@ _"Life is short, [the] craft long, opportunity fleeting, experiment treacherous,
 
 - 💬 ask me about: **anything you think I'll have an interesting opinion about :) I love meeting people!**
 
-- 📫 how to reach me: **for an asynchronous chat mariana(at)psychonautgirl(dot)space for a synchronous one [here](https://gitter.im/marimeireles/)**
+- 📫 how to reach me:
+  - for an asynchronous chat mariana(at)psychonautgirl(dot)space
+  - for a synchronous one [here](https://gitter.im/marimeireles/) 
+  - to discuss ideas about NumFOCUS DISC or Jupyter schedule a slot [here](https://calendly.com/marian-meireles/numfocus-input?month=2022-05)
+  - to hire me [here](https://e7a1xatfr0q.typeform.com/to/ScImy663)
 
 - 🪐 visit my house on the internet (pls take your shoes off before entering): **[psychonautgirl.space](https://psychonautgirl.space/)**
 
