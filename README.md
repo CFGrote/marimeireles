@@ -1,5 +1,5 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
-<h3 align="center">Writing cruelty-free organic software here</h3>
+<h3 align="center">Writing cruelty-free organic software</h3>
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
