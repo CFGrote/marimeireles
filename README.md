@@ -1,33 +1,28 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
 
-**I work as a software engineer for Anaconda and I'm a NumFOCUS DISC and Jupyter widgets steering committee member.**
+:shipit: **My open software work:**
+  - NumFOCUS DISC and Jupyter widgets steering committee member
+  - Jupyter distinguished contributor
+  - software engineer at Anaconda working on [Pyscript](https://github.com/pyscript/pyscript/)
+  - PyLadies Berlin and Women of Color Code organizer
 
-_"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
+📫 **Communication:**
+Community is my favorite thing in the universe! If you think we can have a synergetic interaction, hit me up!
 
-_"To inform means to convey knowledge via facts. The purpose of that is to give shape to the mind." - Rich Hickey_
-
-_"Life is short, [the] craft long, opportunity fleeting, experiment treacherous, judgment difficult." - Hippocrates about software engineering_
-
-- 🔭 Software engineering on: **[Pyscript](https://github.com/pyscript/pyscript/)**
-
-- 🌱 I’m currently learning: **check my [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md**
-
-- 📝 I write: 
-  - Professional articles on my medium account: **[mari-meir.medium.com](https://mari-meir.medium.com)**
-  - My take on various computer things and general experiments: **[cyborgdream.github.io](https://cyborgdream.github.io/)**
-  - Articles about my travellings that sometimes contemplate aspects of digital nomading: **[wireless-hippie.github.io](https://wireless-hippie.github.io/)**
-
-- 💬 ask me about: **anything you think I'll have an interesting opinion about :) I love meeting people!**
-
-- 📫 how to reach me:
+- *Want to talk about the projects I'm a part of? Have any cool coding idea? Let's talk!*
   - for an asynchronous chat mariana(at)psychonautgirl(dot)space
-  - for a synchronous one [here](https://gitter.im/marimeireles/) 
-  - to discuss ideas about NumFOCUS DISC or Jupyter schedule a slot [here](https://calendly.com/marian-meireles/numfocus-input?month=2022-05)
-  - to hire me [here](https://e7a1xatfr0q.typeform.com/to/ScImy663)
+  - for a 1:1 call schedule a slot [here](https://calendly.com/marian-meireles/numfocus-input?month=2022-05)
+- *Interested in hiring me?*
+  - [This](https://e7a1xatfr0q.typeform.com/to/ScImy663) is the way
 
-- 🪐 visit my house on the internet (pls take your shoes off before entering): **[psychonautgirl.space](https://psychonautgirl.space/)**
+🌱 **Check my [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md.**
 
-- ⚡ talents: **I can touch my nose with my tongue**
+🪐 **Visit my house on the internet (pls take your shoes off before entering): [psychonautgirl.space](https://psychonautgirl.space/).**
+
+📝 **I write:**
+  - Professional articles on my medium account: [mari-meir.medium.com](https://mari-meir.medium.com)
+  - My take on various computer things and general experiments: [cyborgdream.github.io](https://cyborgdream.github.io/)
+  - Articles about my travellings that sometimes contemplate aspects of digital nomading: [wireless-hippie.github.io](https://wireless-hippie.github.io/)
 
 ### Blog posts:
 - [Looking at notebooks from a new perspective](https://blog.jupyter.org/looking-at-notebooks-from-a-new-perspective-bfd06797f188)
@@ -49,3 +44,10 @@ You can find an updated list [here](https://github.com/marimeireles/talks/blob/m
 <a href="https://linkedin.com/in/mariana-meireles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mariana-meireles" height="30" width="40" /></a>
 <a href="https://medium.com/@mari_meir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mari_meir" height="30" width="40" /></a>
 </p>
+
+
+_"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
+
+_"To inform means to convey knowledge via facts. The purpose of that is to give shape to the mind." - Rich Hickey_
+
+_"Life is short, [the] craft long, opportunity fleeting, experiment treacherous, judgment difficult." - Hippocrates about software engineering_
