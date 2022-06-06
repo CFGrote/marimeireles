@@ -7,11 +7,12 @@
   - PyLadies Berlin and Women of Color Code organizer
 
 📫 **Communication:**
+
 Community is my favorite thing in the universe! If you think we can have a synergetic interaction, hit me up!
 
 - *Want to talk about the projects I'm a part of? Have any cool coding idea? Let's talk!*
   - for an asynchronous chat mariana(at)psychonautgirl(dot)space
-  - for a 1:1 call schedule a slot [here](https://calendly.com/marian-meireles/numfocus-input?month=2022-05)
+  - for a 1:1 call schedule a slot [here]([https://calendly.com/marian-meireles/numfocus-input?month=2022-05](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2EwTIvFCy4P55f32wRWt3kgXRBM2R60sXqWgJ01XiYMsoTe5ioYa6JMeVUjCWeY0_xsEJfoqlf))
 - *Interested in hiring me?*
   - [This](https://e7a1xatfr0q.typeform.com/to/ScImy663) is the way
 
