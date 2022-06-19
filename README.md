@@ -5,6 +5,7 @@
   - Jupyter distinguished contributor
   - software engineer at Anaconda working on [Pyscript](https://github.com/pyscript/pyscript/)
   - PyLadies Berlin and Women of Color Code organizer
+  - NASA's subject matter expert @TOPS program
 
 📫 **Communication:**
 
