@@ -1,11 +1,11 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
 
 :shipit: **My open software work:**
-  - NumFOCUS DISC and Jupyter widgets steering committee member
-  - Jupyter distinguished contributor
-  - software engineer at Anaconda working on [Pyscript](https://github.com/pyscript/pyscript/)
-  - PyLadies Berlin and Women of Color Code organizer
-  - NASA's subject matter expert @TOPS program
+  - [NumFOCUS DISC](https://numfocus.org/programs/diversity-inclusion) and [Jupyter widgets](https://numfocus.org/programs/diversity-inclusion) steering committee member
+  - [Jupyter distinguished contributor](https://jupyter.org/governance/distinguished_contributors.html)
+  - software engineer at [Anaconda](https://www.anaconda.com/) working on [Pyscript](https://github.com/pyscript/pyscript/)
+  - [PyLadies Berlin](https://berlin.pyladies.com/) and [Women of Color Code](https://www.linkedin.com/company/84894279/) organizer
+  - NASA's subject matter expert @[TOPS](https://science.nasa.gov/open-science/transform-to-open-science) program
 
 📫 **Communication:**
 
