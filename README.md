@@ -17,7 +17,7 @@
 - *Interested in hiring me?*
   - [This](https://e7a1xatfr0q.typeform.com/to/ScImy663) is the way
 
-🌱 **Check my [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md.**
+🌱 **Check my coding [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md.**
 
 🪐 **Visit my house on the internet (pls take your shoes off before entering): [psychonautgirl.space](https://psychonautgirl.space/).**
 💥 Here you'll find the most updated version of my professional self in the internet 💥
