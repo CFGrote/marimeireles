@@ -1,15 +1,15 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
 
-:shipit: **My open software work:**
+:shipit: **My open software & open science work:**
   - [NumFOCUS DISC](https://numfocus.org/programs/diversity-inclusion) and [Jupyter widgets](https://numfocus.org/programs/diversity-inclusion) steering committee member
   - [Jupyter distinguished contributor](https://jupyter.org/governance/distinguished_contributors.html)
   - software engineer at [Anaconda](https://www.anaconda.com/) working on [Pyscript](https://github.com/pyscript/pyscript/)
   - [PyLadies Berlin](https://berlin.pyladies.com/) and [Women of Color Code](https://www.linkedin.com/company/84894279/) organizer
   - NASA's subject matter expert @[TOPS](https://science.nasa.gov/open-science/transform-to-open-science) program
 
-📫 **Communication:**
+🦄 **Communicorn:**
 
-*Community is my favorite thing in the universe! If you think we can have a synergetic interaction, hit me up!*
+*Community is my favorite thing in the universe! If you think we can have a synergetic interaction, hit me up! I love to collaborate with others. ✨*
 
 - *Want to talk about the projects I'm a part of? Have any cool coding idea? Let's talk!*
   - for an asynchronous chat mariana(at)psychonautgirl(dot)space
@@ -20,13 +20,14 @@
 🌱 **Check my [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md.**
 
 🪐 **Visit my house on the internet (pls take your shoes off before entering): [psychonautgirl.space](https://psychonautgirl.space/).**
+💥 Here you'll find the most updated version of my professional self in the internet 💥
 
 📝 **I write:**
-  - Professional articles on my medium account: [mari-meir.medium.com](https://mari-meir.medium.com)
+  - Professional open source articles on my medium account: [mari-meir.medium.com](https://mari-meir.medium.com)
   - My take on various computer things and general experiments: [cyborgdream.github.io](https://cyborgdream.github.io/)
   - Articles about my travellings that sometimes contemplate aspects of digital nomading: [wireless-hippie.github.io](https://wireless-hippie.github.io/)
 
-### Blog posts:
+### Blog posts on open source:
 - [Looking at notebooks from a new perspective](https://blog.jupyter.org/looking-at-notebooks-from-a-new-perspective-bfd06797f188)
 - [A xeus-SQLite sequel](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
 - [Rhumba: a faster R distribution](https://medium.com/@mari_meir/rhumba-a-faster-r-distribution-d619fb93043a?source=rss-8efcbe033315------2)
