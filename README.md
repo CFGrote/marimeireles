@@ -16,7 +16,7 @@
   - for a 1:1 call schedule a slot [here](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2EwTIvFCy4P55f32wRWt3kgXRBM2R60sXqWgJ01XiYMsoTe5ioYa6JMeVUjCWeY0_xsEJfoqlf)
 - *Interested in hiring me?*
   - [This](https://e7a1xatfr0q.typeform.com/to/ScImy663) is the way for software positions
-  - For research positions or other kinds of work shoot me an email!
+  - For research positions or other kinds of work [shoot me an email](https://psychonautgirl.space/#social)!
 
 🌱 **Check my coding [WIPs and Wishes](https://github.com/cyborgdream/cyborgdream.github.io#readme) md.**
 
