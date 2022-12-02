@@ -1,7 +1,5 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
 
-🪐 **Visit my house on the internet (pls take your shoes off before entering): [psychonautgirl.space](https://psychonautgirl.space/).**
-
 :shipit: **My open software & open science work:**
   - [NumFOCUS DISC](https://numfocus.org/programs/diversity-inclusion) and [Jupyter widgets](https://numfocus.org/programs/diversity-inclusion) steering committee member
   - [Jupyter distinguished contributor](https://jupyter.org/governance/distinguished_contributors.html)
