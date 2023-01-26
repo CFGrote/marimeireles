@@ -11,12 +11,12 @@
 
 *Community is my favorite thing in the universe! If you think we can have a synergetic interaction, hit me up! I love to collaborate with others. ✨*
 
-  - For research positions or [other kinds of work or collaboration](https://psychonautgirl.space/#community) feel free to send me an email [and/or try other communication channels](https://psychonautgirl.space/#social)
+  - For research positions or [other kinds of work or collaboration](https://marimeireles.com/#community) feel free to send me an email [and/or try other communication channels](https://marimeireles.com/#social)
   - If you are a tech-recruiter, please take the time to answer these [two questions](https://e7a1xatfr0q.typeform.com/to/ScImy663)
 
 🌱 **Experiments:**
   - [Software projects](https://holly-saver-964.notion.site/ba473e6b20464b63bb6417a3d5e284c0?v=fd6def1276a9491eb766811161ed7ed9)
-  - [Governance and open source](https://holly-saver-964.notion.site/Governance-and-open-source-63235d5f677448cfb411db8dbed19fc4)
+  - [Coordination, governance & open source](https://holly-saver-964.notion.site/Governance-and-open-source-63235d5f677448cfb411db8dbed19fc4)
 
 📝 **Writing:**
   - Professional open source articles on my medium account: [mari-meir.medium.com](https://mari-meir.medium.com)
@@ -31,7 +31,8 @@
 - [A Jupyter kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551?source=rss-8efcbe033315------2)
 - [Interactive graph visualization](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
 - [About my Qt times](https://www.qt.io/blog/about-my-qt-times-and-a-qt-for-python-voice-assistant)
-- [Web performance analysis on Webcompat](https://psychonautgirl.space/Webcompat-optimization.html)
+- [Web performance analysis on Webcompat](https://marimeireles.com
+- /Webcompat-optimization.html)
 
 ### Talks, classes and podcasts:
   - You can find a list [here](https://github.com/marimeireles/talks/blob/master/README.md)
