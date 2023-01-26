@@ -31,8 +31,7 @@
 - [A Jupyter kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551?source=rss-8efcbe033315------2)
 - [Interactive graph visualization](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
 - [About my Qt times](https://www.qt.io/blog/about-my-qt-times-and-a-qt-for-python-voice-assistant)
-- [Web performance analysis on Webcompat](https://marimeireles.com
-- /Webcompat-optimization.html)
+- [Web performance analysis on Webcompat](https://marimeireles.com/Webcompat-optimization.html)
 
 ### Talks, classes and podcasts:
   - You can find a list [here](https://github.com/marimeireles/talks/blob/master/README.md)
