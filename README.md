@@ -20,7 +20,7 @@
   - [Complexity & coordination](https://marimeireles.notion.site/Complexity-and-coordination-15814d5b41874928b08506a55c92fc61?pvs=4)
 
 📝 **Writing:**
-  - Research posts: [techforgoodresearch](https://techforgoodresearch.substack.com/)
+  - Research posts: [techforgoodresearch.substack.com](https://techforgoodresearch.substack.com/)
   - Posts about softwares I maintain(ed): [mari-meir.medium.com](https://mari-meir.medium.com)
   - Personal blog with CS opinions: [cyborgdream.github.io](https://cyborgdream.github.io/)
   - Personal blog about my travellings that contemplate aspects of digital nomading: [wireless-hippie.github.io](https://wireless-hippie.github.io/)
