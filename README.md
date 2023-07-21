@@ -16,7 +16,7 @@
 
 🌱 **Experiments:**
   - [Software projects](https://marimeireles.notion.site/ba473e6b20464b63bb6417a3d5e284c0?v=fd6def1276a9491eb766811161ed7ed9&pvs=4)
-  - [Governance & open source](https://holly-saver-964.notion.site/Governance-and-open-source-63235d5f677448cfb411db8dbed19fc4)
+  - [Governance & open source](https://marimeireles.notion.site/Governance-and-open-source-63235d5f677448cfb411db8dbed19fc4?pvs=4)
   - [Complexity & coordination](https://marimeireles.notion.site/Complexity-and-coordination-15814d5b41874928b08506a55c92fc61?pvs=4)
 
 📝 **Writing:**
