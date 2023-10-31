@@ -43,3 +43,5 @@ _"Typelists are devoid of any value: Their bodies are empty, they don't hold any
 _"To inform means to convey knowledge via facts. The purpose of that is to give shape to the mind." - Rich Hickey_
 
 _"Life is short, craft long, opportunity fleeting, experiment treacherous, judgment difficult." - Hippocrates_
+
+_"We are not studying in order to know what virtue is, but to become good, for otherwise there would be no profit in it." - Aristotle_
