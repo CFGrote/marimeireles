@@ -1,7 +1,7 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
 
 :shipit: **My open software & open science work:**
-  - Researching ways to improve coordination and develop economic models for poverty reduction @[recurse](recurse.com/)
+  - Researching ways to improve coordination @[impact academy](impactacademy.org/)
   - [NumFOCUS DISC](https://numfocus.org/programs/diversity-inclusion) and [Jupyter widgets](https://numfocus.org/programs/diversity-inclusion) steering committee member
   - [Jupyter distinguished contributor](https://jupyter.org/governance/distinguished_contributors.html)
   - [PyLadies Berlin](https://berlin.pyladies.com/) and [Women of Color Code](https://www.linkedin.com/company/84894279/) co-organizer
