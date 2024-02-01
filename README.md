@@ -40,10 +40,12 @@ I believe the most critical problem that we face today is the one of [coordinati
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="[https://medium.com/@mari_meir](https://techforgoodresearch.substack.com/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/substack.svg" alt="" height="30" width="40" /></a>
 <a href="https://kolektiva.social/web/@marimeireles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="@marimeireles@kolektiva.social" height="30" width="40" /></a>
 <a href="https://twitter.com/mari_meir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mari_meir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mariana-meireles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mariana-meireles" height="30" width="40" /></a>
 <a href="https://medium.com/@mari_meir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mari_meir" height="30" width="40" /></a>
+  
 </p>
 
 
