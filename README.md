@@ -6,9 +6,9 @@
   - [PyLadies Berlin](https://berlin.pyladies.com/) and [Women of Color Code](https://www.linkedin.com/company/84894279/) co-organizer
   - NASA's subject matter expert @[TOPS](https://science.nasa.gov/open-science/transform-to-open-science) program
 
-✨ **Coordination Research:**
+✨ **Coordination Research: complex systems and reinforcement learning:**
 
-I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), so I'm dedicating a big part of my time to work on it!
+I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), so I'm dedicating a big part of my time to work on it! More about my interests can be found [here](https://www.notion.so/marimeireles/Math-computers-578489b1e9954ebe81375c04d8e15ad7).
 
   - Research fellow @[impact academy](impactacademy.org/)
   - Researcher @[BarfussLab](https://wbarfuss.github.io/), University of Bonn
