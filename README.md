@@ -15,19 +15,19 @@ I believe the most critical problem that we face today is the one of [coordinati
     - Navigating the Complexity of AI Cooperation: From Learning Dynamics to Language Models [Long abstract](https://www.overleaf.com/read/fmfchvdtxhbg#c652f3)
 
 🌱 **Slowly cultivated interests:**
-  - Poverty alleviation: I'm interested in ways of decreasing the inequality gap, paying special attention to people living in extreme poverty. I think about [running tech intership projects](https://www.notion.so/marimeireles/Global-south-internship-program-6ba5ab15a0f54f2187a55ba0d01aab59?pvs=4) in the global south and supporting them with a [special pedagogical ethos](https://www.notion.so/marimeireles/Pedagogical-ethos-for-kids-impacted-with-poverty-aacad2d96f3c422199524255878b2f07?pvs=4), [teaching farmers about permaculture and supporting them with an NGO](https://www.notion.so/marimeireles/Familiar-permaculture-project-Brazil-0277fccccb7740c49cc0845b824e9d10?pvs=4) and [increasing internet access in the world](https://www.notion.so/marimeireles/Increasing-internet-access-b377c40a21ba483ebec686afc0a508c5?pvs=4).
+  - Poverty alleviation: I'm interested in ways of decreasing the inequality gap, paying special attention to people living in extreme poverty. I think about [running tech intership projects](https://www.notion.so/marimeireles/Global-south-internship-program-6ba5ab15a0f54f2187a55ba0d01aab59?pvs=4) in the global south while having a fitting [ pedagogical ethos](https://www.notion.so/marimeireles/Pedagogical-ethos-for-kids-impacted-with-poverty-aacad2d96f3c422199524255878b2f07?pvs=4), [teaching farmers about permaculture and supporting them with an NGO](https://www.notion.so/marimeireles/Familiar-permaculture-project-Brazil-0277fccccb7740c49cc0845b824e9d10?pvs=4) and [increasing internet access in the world](https://www.notion.so/marimeireles/Increasing-internet-access-b377c40a21ba483ebec686afc0a508c5?pvs=4).
   - [Governance and open source](https://www.notion.so/marimeireles/Governance-and-open-source-63235d5f677448cfb411db8dbed19fc4): Increasing interoperability and people's agency in a world of machines and humans.
   - [Software fun projects](https://www.notion.so/marimeireles/ba473e6b20464b63bb6417a3d5e284c0?v=fd6def1276a9491eb766811161ed7ed9)
   - [Reading books](http://marimeireles.com/books.html)
 
 🦄 **Communicorn:**
 
-*Community is my favorite thing in the universe! If you think we can have a synergetic interaction, hit me up! I love to collaborate with others. ✨*
+*Community is my favorite thing in the universe! If you think we can have a serendipitous interaction, hit me up! I love to collaborate with others. ✨*
 
-  - For research positions or [other kinds of or collaboration](https://marimeireles.com/#community) feel free to send me an email and/or grab a time on my [calendar](https://calendar.app.google/8YGJwftf7mbHwp6t5)
+  - For research positions or [other kinds of or collaboration](https://marimeireles.com/#community) feel free to send me an email and/or grab a time on my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9)
   - If you are a tech-recruiter, please take the time to answer these [two questions](https://e7a1xatfr0q.typeform.com/to/ScImy663)
   - I host dinners and salons in Berlin. Themes we talked about include "The limits of free speech", "Spirituality and rituals", "Rethinking future socio-economic structures and institutions", "How to be moral", etc. If you are a Berliner or a passer-by and would like to join we welcome first-timers, just send me an email!
-  - I'm starting an intentional community house in Berlin to live with my friends, it's losely centered around hacker-house, music making, spiritual exploration and just being a huge nerd. Again, if you are interested, please send me an email introducing yourself.
+  - I'm starting an intentional community house in Berlin to live with my friends, it's losely centered around hacker-house, music making, scientific and spiritual exploration and just being a huge nerd. Again, if you are interested, please send me an email introducing yourself.
 
 📝 **Writing:**
   - Research blog: [techforgoodresearch.substack.com](https://techforgoodresearch.substack.com/)
