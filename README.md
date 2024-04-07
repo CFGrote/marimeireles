@@ -12,7 +12,7 @@ I believe the most critical problem that we face today is the one of [coordinati
 
   - Research fellow @[impact academy](impactacademy.org/)
   - Researcher @[BarfussLab](https://wbarfuss.github.io/), University of Bonn
-    - Navigating the Complexity of AI Cooperation: From Learning Dynamics to Language Models [Long abstract](https://www.overleaf.com/read/fmfchvdtxhbg#c652f3)
+    - Navigating the Complexity of AI Cooperation: From Learning Dynamics to Language Models [Research updates](https://docs.google.com/document/d/1r5nK_gwiyN51RLmHpYbi4VWZpuH2f22ykvkq4Otpfw0/edit?usp=sharing), [Long abstract](https://www.overleaf.com/read/fmfchvdtxhbg#c652f3)
 
 🌱 **Slowly cultivated interests:**
   - Poverty alleviation: I'm interested in ways of decreasing the inequality gap, paying special attention to people living in extreme poverty. I think about [running tech intership projects](https://www.notion.so/marimeireles/Global-south-internship-program-6ba5ab15a0f54f2187a55ba0d01aab59?pvs=4) in the global south while having a fitting [ pedagogical ethos](https://www.notion.so/marimeireles/Pedagogical-ethos-for-kids-impacted-with-poverty-aacad2d96f3c422199524255878b2f07?pvs=4), [teaching farmers about permaculture and supporting them with an NGO](https://www.notion.so/marimeireles/Familiar-permaculture-project-Brazil-0277fccccb7740c49cc0845b824e9d10?pvs=4) and [increasing internet access in the world](https://www.notion.so/marimeireles/Increasing-internet-access-b377c40a21ba483ebec686afc0a508c5?pvs=4).
