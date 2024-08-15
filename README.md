@@ -1,14 +1,14 @@
 <h1 align="center">Hello beings of the universe, 👽🖖</h1>
 
 :shipit: **My open software & open science work:**
-  - [NumFOCUS DISC](https://numfocus.org/programs/diversity-inclusion) steering committee member
+  - [NumFOCUS DISC](https://numfocus.org/programs/diversity-inclusion) steering committee member 2022 - 2024
   - [Jupyter distinguished contributor](https://jupyter.org/governance/distinguished_contributors.html)
   - [PyLadies Berlin](https://berlin.pyladies.com/) and [Women of Color Code](https://www.linkedin.com/company/84894279/) co-organizer
   - NASA's subject matter expert @[TOPS](https://science.nasa.gov/open-science/transform-to-open-science) program
 
 ✨ **Coordination Research: complex systems and reinforcement learning:**
 
-I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), so I'm dedicating a big part of my time to work on it! More about my interests can be found [here](https://www.notion.so/marimeireles/Math-computers-578489b1e9954ebe81375c04d8e15ad7).
+I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), so I'm dedicating a big part of my time to work on it!
 
   - Research Software Engineer @[Max Planck Institute for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en)
   - Researcher @[BarfussLab](https://wbarfuss.github.io/), University of Bonn
@@ -23,16 +23,18 @@ I believe the most critical problem that we face today is the one of [coordinati
 
 *Community is my favorite thing in the universe! If you think we can have a serendipitous interaction, hit me up! I love to collaborate with others. ✨*
 
-  - For research positions or [other kinds of or collaboration](https://marimeireles.com/#community) feel free to send me an email and/or grab a time on my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9)
-  - If you are a tech-recruiter, please take the time to answer these [two questions](https://e7a1xatfr0q.typeform.com/to/ScImy663)
   - I host dinners and salons in Berlin. Themes we talked about include "The limits of free speech", "Spirituality and rituals", "Rethinking future socio-economic structures and institutions", "How to be moral", etc. If you are a Berliner or a passer-by and would like to join we welcome first-timers, just send me an email!
-  - I'm [starting an intentional community house in Berlin to live with my friends](https://marimeireles.notion.site/Berlin-intentional-community-living-2d346f0f86a04d55b596da65ad56c7e9), it's loosely centered around hacker-house, music making, scientific and spiritual exploration and just being a huge nerd. Again, if you are interested, please send me an email introducing yourself.
+  - I'm [starting an intentional community house in Berlin to live with my friends](https://marimeireles.notion.site/Berlin-intentional-community-living-2d346f0f86a04d55b596da65ad56c7e9). It's generally centered in doing good to the world and endulging in nerdyness, [here's a link](https://docs.google.com/document/d/11ShEoP_h5qazoRIHDdSbFQFKa1ZgUPy60x8D2RVf6Ak/edit#heading=h.g6nr81xnwjj7) for an initial sketch of out vision. If you are interested in joining or in helping, just send me an email introducing yourself.
 
 📝 **Writing:**
   - Research blog: [techforgoodresearch.substack.com](https://techforgoodresearch.substack.com/)
   - Posts about open science softwares I maintain(ed): [mari-meir.medium.com](https://mari-meir.medium.com)
   - Personal blog where I explore computer science topics: [cyborgdream.github.io](https://cyborgdream.github.io/)
   - Personal blog about my travellings that contemplate aspects of digital nomading and community building: [wireless-hippie.github.io](https://wireless-hippie.github.io/)
+
+🧠 ** Want to hire my beautiful brains?: **
+
+If you are a tech-recruiter, please take the time to answer these [two questions](https://e7a1xatfr0q.typeform.com/to/ScImy663). For research positions or other kinds of or collaboration (see the community tab on my personal website) feel free to send me an email and/or grab a time in my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9)
 
 ### Talks, classes and podcasts:
   - You can find a list [here](https://github.com/marimeireles/talks/blob/master/README.md)
