@@ -32,7 +32,7 @@ I believe the most critical problem that we face today is the one of [coordinati
   - Personal blog where I explore computer science topics: [cyborgdream.github.io](https://cyborgdream.github.io/)
   - Personal blog about my travellings that contemplate aspects of digital nomading and community building: [wireless-hippie.github.io](https://wireless-hippie.github.io/)
 
-🧠 ** Want to hire my beautiful brains?: **
+🧠 **Want to hire my beautiful brains?:**
 
 If you are a tech-recruiter, please take the time to answer these [two questions](https://e7a1xatfr0q.typeform.com/to/ScImy663). For research positions or other kinds of or collaboration (see the community tab on my personal website) feel free to send me an email and/or grab a time in my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9)
 
